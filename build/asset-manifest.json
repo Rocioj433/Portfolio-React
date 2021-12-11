@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2b40a5a.chunk.css",
+    "main.js": "/static/js/main.0a4699cc.chunk.js",
+    "main.js.map": "/static/js/main.0a4699cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3beccd1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3beccd1f.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.d96828a2.chunk.js": "/static/js/2.d96828a2.chunk.js",
+    "static/js/2.d96828a2.chunk.js.map": "/static/js/2.d96828a2.chunk.js.map",
+    "static/js/3.968cccf1.chunk.js": "/static/js/3.968cccf1.chunk.js",
+    "static/js/3.968cccf1.chunk.js.map": "/static/js/3.968cccf1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.c2b40a5a.chunk.css.map": "/static/css/main.c2b40a5a.chunk.css.map",
+    "static/js/2.d96828a2.chunk.js.LICENSE.txt": "/static/js/2.d96828a2.chunk.js.LICENSE.txt",
+    "static/media/bike-shop.png": "/static/media/bike-shop.25af4b99.png",
+    "static/media/coding.png": "/static/media/coding.6bb2ab44.png",
+    "static/media/correo.png": "/static/media/correo.5341175f.png",
+    "static/media/github.png": "/static/media/github.9e094d23.png",
+    "static/media/instagram.png": "/static/media/instagram.54d59689.png",
+    "static/media/linkedin.png": "/static/media/linkedin.13035068.png",
+    "static/media/resume.pdf": "/static/media/resume.09dbbe32.pdf",
+    "static/media/twitter.png": "/static/media/twitter.480d6b94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3beccd1f.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.d96828a2.chunk.js",
+    "static/css/main.c2b40a5a.chunk.css",
+    "static/js/main.0a4699cc.chunk.js"
+  ]
+}

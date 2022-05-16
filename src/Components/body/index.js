@@ -5,6 +5,7 @@ import Skills from "./skills/index";
 import Work from "./work/index";
 import Contact from "./contact/index";
 import Project from "./projects/index";
+import WorkExperience from "./work-experience";
 
 function Body() {
     return(
@@ -17,6 +18,9 @@ function Body() {
             </section>
             <section id="project">
                 <Project/>
+            </section>
+            <section>
+                <WorkExperience />
             </section>
             <section id="work">
                 <Work />

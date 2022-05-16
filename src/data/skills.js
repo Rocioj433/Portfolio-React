@@ -26,6 +26,10 @@ export const SkillsData = [
             {
                 name: "GitHub",
                 icon: <i class = "devicon-github-plain colored"></i>
+            },
+            {
+                name:"Figma",
+                icon: <i class = "devicon-figma-plain colored"></i>
             }
         ]
     },
@@ -44,7 +48,17 @@ export const SkillsData = [
         ]
     },
     {
-        type: "Backend, Database & more Frontend",
+        type: "Database",
+        list: [
+        {
+            name:"MySql",
+            icon: <i class = "devicon-mysql-plain colored"></i>
+            
+        }
+    ]
+    },
+    {
+        type: "Backend",
         list: [
         {
             icon: <label> In Coming...</label>

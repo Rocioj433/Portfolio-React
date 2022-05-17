@@ -6,9 +6,9 @@ export const ProjectData = [
         name: "Demo",
     },
     {
-        platform: "Calculator - React",
-        icon: require("../assets/icons/calculator.png").default,
-        link: "https://calculadorareact28.netlify.app",
+        platform: "Search Gif - React",
+        icon: require("../assets/icons/gif.png").default,
+        link: "https://rocioj433.github.io/Gif-expert-App/",
         name: "Demo",
     },
     {

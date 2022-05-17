@@ -33,20 +33,6 @@ export const SkillsData = [
             }
         ]
     },
-    
-    {
-        type:"programming languages",
-        list: [
-            {
-                name:"C++",
-                icon: <i class = "devicon-cplusplus-plain colored"></i>
-            },
-            {
-                name:"Python",
-                icon: <i class = "devicon-python-plain colored"></i>
-            }
-        ]
-    },
     {
         type: "Database",
         list: [
@@ -61,7 +47,7 @@ export const SkillsData = [
         type: "Backend",
         list: [
         {
-            icon: <label> In Coming...</label>
+            icon: <label> Coming soon...</label>
         }
     ]
     }

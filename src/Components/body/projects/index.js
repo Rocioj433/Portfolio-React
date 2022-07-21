@@ -1,7 +1,6 @@
 import React from "react";
 import { ProjectData } from "../../../data/project";
 import "./project.css";
-import Separator from "../../common/separator";
 
 function Project() {
   const data = ProjectData;
@@ -14,11 +13,10 @@ function Project() {
       <div className="project-contact">
         {data.map((item) => {
           return (
-            <div className="project-container">
-              <a href={item.link} target="_blank">
+            <div className="project-container" key={item.id}>
+              <a href={item.link} target="_blank" rel="noreferrer">
                 <div className="project-icon-div">
-                  <img src={item.icon} className="project-icon" />
-                  {/* <p className="btn"> {item.name} </p> */}
+                  <img src={item.icon} className="project-icon" alt="project"/>
                 </div>
               </a>
             </div>

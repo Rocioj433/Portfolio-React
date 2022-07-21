@@ -13,7 +13,7 @@ function Work() {
             <hr/>
             <div className="work-list">
                 {data.map((item) => {
-                    return <WorkCard item={item} />;
+                    return <WorkCard item={item} key={item.id}/>;
                 })}
             </div>
         </div>

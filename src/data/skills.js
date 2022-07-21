@@ -3,20 +3,24 @@ export const SkillsData = [
         type: "Frontend",
         list: [
             {
+                id:1,
                 name: "Javascript",
-                icon: <i class="devicon-javascript-plain colored"></i>
+                icon: <i className="devicon-javascript-plain colored"></i>
             },
             {
+                id:2,
                 name: "React",
-                icon: <i class = "devicon-react-original colored"></i>
+                icon: <i className = "devicon-react-original colored"></i>
             },
             {
+                id:3,
                 name: "HTML5",
-                icon: <i class = "devicon-html5-plain colored"></i>
+                icon: <i className = "devicon-html5-plain colored"></i>
             },
             {
+                id:4,
                 name:"CSS3",
-                icon: <i class = "devicon-css3-plain colored"></i>
+                icon: <i className= "devicon-css3-plain colored"></i>
             }
         ]
     },
@@ -24,12 +28,14 @@ export const SkillsData = [
         type: "Tools",
         list: [
             {
+                id:1,
                 name: "GitHub",
-                icon: <i class = "devicon-github-plain colored"></i>
+                icon: <i className = "devicon-github-plain colored"></i>
             },
             {
+                id:2,
                 name:"Figma",
-                icon: <i class = "devicon-figma-plain colored"></i>
+                icon: <i className= "devicon-figma-plain colored"></i>
             }
         ]
     },
@@ -37,8 +43,9 @@ export const SkillsData = [
         type: "Database",
         list: [
         {
+            id:1,
             name:"MySql",
-            icon: <i class = "devicon-mysql-plain colored"></i>
+            icon: <i className= "devicon-mysql-plain colored"></i>
             
         }
     ]

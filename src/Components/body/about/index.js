@@ -14,6 +14,7 @@ function About() {
                 <div className="about-photo">
                     <img 
                         src={require("../../../assets/image/coding.png").default}
+                        alt="coding"
                         className="picture float-left"
                     />
                 </div>

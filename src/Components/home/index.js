@@ -1,4 +1,4 @@
-import React, { cloneElement } from "react";
+import React from "react";
 import "./home.css";
 import Header from "../header/index";
 import Body from "../body/index";

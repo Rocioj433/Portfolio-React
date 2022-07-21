@@ -4,7 +4,7 @@ import "./work-card.css";
 const WorkCard = ({item}) => {
   return (
     <div className="work-card">
-            <img src={item.companyLogo} className="work-logo" />
+            <img src={item.companyLogo} className="work-logo" alt='work-logo' />
             <div className="work-info">
                 <label className="company-name">{item.company}</label>
                 <b>{item.designation}</b>

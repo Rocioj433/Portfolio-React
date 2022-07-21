@@ -1,44 +1,44 @@
 export const ProjectData = [
     {
+        id:1,
         platform: "Rick & Morty - Wiki (React",
         icon: require("../assets/icons/rick-sanchez.png").default,
         link: "https://rick-and-morty-wiki-reactjs.netlify.app",
         name: "Demo",
     },
     {
-        platform: "Search Gif - React",
-        icon: require("../assets/icons/gif.png").default,
-        link: "https://rocioj433.github.io/Gif-expert-App/",
+        id:2,
+        platform: "ToDo - React & TypeScript",
+        icon: require("../assets/icons/to-do-list.png").default,
+        link: "https://github.com/Rocioj433/ToDo---React---Typescript",
         name: "Demo",
     },
     {
-        platform: "Tetris",
-        icon: require("../assets/icons/tetris.png").default,
-        link: "https://github.com/Rocioj433/Tetris-Basic-G2",
+        id:3,
+        platform: "ROG Shop - React",
+        icon: require("../assets/icons/rog.png").default,
+        link: "https://github.com/Rocioj433/rog-shop-SanchezSuarez",
         name: "Repository",
     },
     {
+        id:4,
         platform: "Battleship",
         icon: require("../assets/icons/battleship.png").default,
         link: "https://github.com/Rocioj433/batalla",
         name: "Repository",
     },
     {
-        platform: "Calculator - Guayerd",
-        icon: require("../assets/icons/calculator.png").default,
-        link: "https://github.com/Rocioj433/Calculadora-Guayerd",
+        id:5,
+        platform: "Gif Expert App - React",
+        icon: require("../assets/icons/gif.png").default,
+        link: "https://github.com/Rocioj433/Gif-expert-App",
         name: "Repository",
     },
     {
+        id:6,
         platform: "Bike shop - Guayerd bikes",
         icon: require("../assets/icons/bike-shop.png").default,
         link: "https://github.com/Rocioj433/Tienda_Bicis_G2_II",
         name: "Repository",
-    }/* ,
-    {
-        platform: " Bike shop with space theme",
-        icon: require("../assets/icons/coming-soon.png").default,
-        link: "https://giphy.com/gifs/ginamo-real-estate-realtor-coming-soon-fUYp0iOzQfC540KCs4",
-        name: "Coming soon",
-    } */
+    }
 ];

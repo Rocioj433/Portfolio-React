@@ -1,7 +1,10 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "npm ci && npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
+  "env": {
+    "VERCEL_BUILDER_FORCE_INSTALL": "1"
+  },
   "rewrites": [
     {
       "source": "/(.*)",
